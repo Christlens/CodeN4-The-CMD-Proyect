@@ -1,0 +1,23 @@
+N°1) cd thecmdchallenge/}
+
+*Apartir de aquí, todos los comandos (hasta nuevo aviso) están basados en que estamos en el directorio /workspace/exercise-terminal-challenge/thecmdchallenge*
+
+N°2) pwd
+N°3) ls -la
+N°4) ls 
+N°5) clear
+N°6) cat small-name/bigger-name-than-before/omg-this-folder-has-a-huuuuuuge-name-and-i-tired-to-type/this-is-probably-the-longest-folder-name-you-have-ever-seen-but-believe--im-sure-there-are-other-folder-bigger-than-this-one-because-people-sometimes-like-to-assign-huge-names-to-their-personal-stuff-supercalifragilisticexpialidocious/trophy.txt 
+N°7) cd funcode/ && ls *.js}s
+
+*Aquí volví a subir el directorio a /workspace/exercise-terminal-challenge/thecmdchallenge*
+
+N°8) mkdir funcode/the-most-funny/Not-that-Funny
+N°9) cp boringfolder/event-more-boring/i-can-believe-how-boring/the-ulrimate-boring-inception/the-mostboring-text.txt boringfolder/event-more-boring/i-can-believe-how-boring/the-ulrimate-boring-inception/lol.txt
+N°10) mv funcode/kids.jpg funcode/images/hello/
+N°11) rm -r small-name/
+N°12) vim funcode/the-most-funny/lol/the-ultimate-joke.txt 
+n°13) rm -r boringfolder/*
+N°14) vim kamehameha/dragon-ball-jokes.md 
+N°15) Abrimos el archivo con este comando: vim kamehameha/dragon-ball-jokes.md - Después borramos la línea N°1 y guardamos el archivo con la tecla "esc" y despues escribimos ":wq!".
+
+NOTA: Todos estos comandos están hechos para que puedan ser ejecutados en la máquina virtual en el siguiente Link: https://gitpod.io#https://github.com/breatheco-de/exercise-terminal-challenge.git
